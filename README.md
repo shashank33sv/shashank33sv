@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://x.com/shashank33sv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shashank33sv" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shashanksv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shashanksv" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/shashank sv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shashank sv" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23596403/shashank-s-v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shashank sv" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/shashanksv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/shashanksv/" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/shashank33sv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/shashank33sv/" height="30" width="40" /></a>
 </p>
